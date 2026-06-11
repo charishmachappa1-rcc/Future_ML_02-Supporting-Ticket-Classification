@@ -36,3 +36,7 @@ This project automates:
 ---
 
 ## 📂 Project Structure
+<img width="1280" height="612" alt="figure 2 output" src="https://github.com/user-attachments/assets/d192ed69-8b63-4de1-b2ea-b224476a43e2" />
+
+
+
